@@ -1,0 +1,9 @@
+{
+  "name": "test-server",
+  "version": "1.0.0",
+  "description": "Тестовый сервер для нагрузки",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
